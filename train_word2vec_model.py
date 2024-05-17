@@ -30,3 +30,4 @@ if __name__ == '__main__':
     
     # Use save_word2vec_format directly on the Word2Vec object
     model.wv.save_word2vec_format(outp2, binary=False)
+
